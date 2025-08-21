@@ -70,3 +70,5 @@ def myfunc1():
   return x
 
 print("Nonlocal x:", myfunc1())
+
+# Reviewed on 2025-08-21
