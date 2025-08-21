@@ -50,3 +50,5 @@ for x in thislist:
 # [expression for item in iterable if condition == True]
 newlist = [x for x in numbers if x % 2 == 0]
 print("Even numbers:", newlist)
+
+# Reviewed on 2025-08-21
