@@ -58,3 +58,5 @@ my_gen = (x*x for x in range(5))
 print("\nGenerator Expression:")
 for x in my_gen:
     print(x)
+
+# Reviewed on 2025-08-23
