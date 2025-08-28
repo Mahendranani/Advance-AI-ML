@@ -54,3 +54,5 @@ def my_function_country(country = "Norway"):
 
 my_function_country("Sweden")
 my_function_country()
+
+# Reviewed on 2025-08-28
