@@ -1,17 +1,7 @@
-# Day 8: Sets
-# -----------
-
-# 1. Creating a Set
-# Sets are used to store multiple items in a single variable.
-# A set is a collection which is unordered, unchangeable*, and unindexed.
-# * Note: Set items are unchangeable, but you can remove items and add new items.
 
 thisset = {"apple", "banana", "cherry"}
 print(thisset)
 
-# 2. Access Items
-# You cannot access items in a set by referring to an index or a key.
-# But you can loop through the set items using a for loop, or ask if a specified value is present in a set, by using the in keyword.
 
 print("banana" in thisset)
 
@@ -46,3 +36,5 @@ print("Intersection:", z)
 
 z = x.difference(y)
 print("Difference (x - y):", z)
+
+# Reviewed on 2025-08-29
