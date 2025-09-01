@@ -51,3 +51,5 @@ print("Group:", x.group()) # part of the string where there was a match
 txt = "The rain in Spain 123"
 x = re.findall("\d", txt)
 print("\nDigits found:", x)
+
+# Reviewed on 2025-09-01
