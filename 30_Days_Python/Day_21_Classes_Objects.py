@@ -66,3 +66,5 @@ del p1.age
 # 8. Delete Objects
 del p1
 # print(p1) # Error
+
+# Reviewed on 2025-09-07
