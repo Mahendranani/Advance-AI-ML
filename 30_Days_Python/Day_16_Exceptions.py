@@ -52,3 +52,5 @@ x = "hello"
 if not type(x) is int:
   # raise TypeError("Only integers are allowed") # Uncomment to see error
   print("Would raise TypeError here if uncommented")
+
+# Reviewed on 2025-09-10
