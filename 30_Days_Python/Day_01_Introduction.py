@@ -29,3 +29,5 @@ print("Python Version:", sys.version)
 # Exercise:
 # Try printing your name and your favorite hobby below.
 # print("My name is ...")
+
+# Reviewed on 2025-09-10
