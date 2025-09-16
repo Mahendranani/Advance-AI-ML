@@ -55,3 +55,5 @@ if os.path.exists("people.csv"):
 if os.path.exists("people_dict.csv"):
     os.remove("people_dict.csv")
 print("Cleaned up CSV files.")
+
+# Reviewed on 2025-09-16
