@@ -57,3 +57,5 @@ def add(x, y):
 
 list1 = [2, 4, 7, 3]
 print("Reduce (sum):", reduce(add, list1))
+
+# Reviewed on 2025-09-20
