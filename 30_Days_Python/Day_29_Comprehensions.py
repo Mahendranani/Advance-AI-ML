@@ -40,3 +40,5 @@ print("\nSet Comprehension:", unique_squares)
 # We saw this in Day 26, but it's worth noting here as it fits the pattern.
 gen = (x**2 for x in range(5))
 print("\nGenerator Expression:", list(gen))
+
+# Reviewed on 2025-09-20
